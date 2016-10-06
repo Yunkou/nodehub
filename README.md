@@ -1,2 +1,9 @@
-# nodehub
+# Nodehub
 尝试带领团队学习node
+
+### 第一阶段
+
+《[Node.js 包教不包会](https://github.com/alsotang/node-lessons)》共18课 10月24日之前看完
+
+
+
