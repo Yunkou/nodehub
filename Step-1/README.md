@@ -6,3 +6,5 @@
 - [ ] superagent 简易的入门教程
 - [ ] cheerio 简易的入门教程
 - [ ] eventproxy 简易的入门教程
+- [ ] BDD 和 TDD 的区别
+- [ ] 如何发布npm 包
