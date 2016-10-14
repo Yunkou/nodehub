@@ -10,3 +10,7 @@
 - [Mocha中文指南](http://www.ifeenan.com/javascript/2015-02-26-Mocha%E4%B8%AD%E6%96%87%E6%8C%87%E5%8D%97/)
 - [node.js中文资料导航](https://github.com/youyudehexie/node123)
 - [async.js 各种函数的 demo](https://github.com/alsotang/async_demo)
+
+#### 2016-10-09 更新
+- [妙味课堂](http://www.miaov.com/index.php/video/vipvideolist)
+- [mongoDB入门篇](http://www.imooc.com/learn/295)
